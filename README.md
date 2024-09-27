@@ -38,6 +38,8 @@ class Programador{
 
 <div style="display: inline_block" align="left">
 
+<img  width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
+
 <img  width="20px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript">
 
 <img  width="20px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="Git">
