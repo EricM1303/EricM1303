@@ -73,3 +73,7 @@ class Programador{
 <br>
 
 </div>
+
+<img src="https://raw.githubusercontent.com/EricM1303/EricM1303/output/snake.svg" alt="Snake animation" />
+
+###
