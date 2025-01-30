@@ -32,7 +32,7 @@ class Programador{
 
 <h4>Objectives:</h4>
 
->❤️🤖 learn about AI and develop games!
+>❤️🤖 learn about AI and develop softwares/API's!
 
 <h4>Learn:</h4>
 
